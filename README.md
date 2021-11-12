@@ -65,3 +65,5 @@
 ## Comandos Utilitarios trabajando remoto
 
 #### git remote -v // Chequea el origen remoto si es que exsite
+
+#### git clone `codigo que nos da github para clonarlo` // Clonamos un proyecto desde github
